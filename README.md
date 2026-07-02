@@ -34,17 +34,17 @@ $ systemctl status nithin-k.service
 
 ### 📂 Operational Directory (Selected Projects)
 
-#### ⚙️ [ORE — Open Runtime Environment for LLMs](https://github.com/Nithin-dot-k/ore-kernel)
-*Systems Architecture // Rust, Hugging Face Candle, Axum*
-* Co-developing a kernel-level process manager in Rust to virtualize and securely orchestrate local AI model inference.
-* Engineered a Context Firewall regex module to identify and block heuristic prompt injections and redact PII.
-* Implementing a semaphore-based GPU scheduler and SSD pager to securely manage and multiplex model weights.
-
 #### 🧠 [InsightStream — Enterprise Multi-Tenant AI Knowledge Base](https://github.com/Nithin-dot-k)
 *Full-Stack SaaS // Next.js, Supabase, Clerk, Groq*
 * Built a document intelligence platform implementing secure cryptographic tenant isolation via Clerk and custom JWT validation.
 * Hardened SPA session logic with custom event listeners to instantly flush in-memory states upon logout.
 * Optimized database vector ingestion with Cohere's API, preventing edge execution timeouts during heavy 1024-d vector transfers.
+
+  #### ⚙️ [ORE — Open Runtime Environment for LLMs](https://github.com/Nithin-dot-k/ore-kernel)
+*Systems Architecture // Rust, Hugging Face Candle, Axum*
+* Co-developing a kernel-level process manager in Rust to virtualize and securely orchestrate local AI model inference.
+* Engineered a Context Firewall regex module to identify and block heuristic prompt injections and redact PII.
+* Implementing a semaphore-based GPU scheduler and SSD pager to securely manage and multiplex model weights.
 
 #### 🔍 [PhishGuard — AI-Powered Phishing Detection](https://github.com/Nithin-dot-k/PhishGuard-ML)
 *Full-Stack Security // Python, FastAPI, Scikit-learn, Chrome API*
