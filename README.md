@@ -54,25 +54,6 @@ $ systemctl status nithin-k.service
 
 ---
 
-### 💼 Practical Experience & Internships
-
-#### 🛡️ Cybersecurity & Ethical Hacking Intern
-*Hackup Technology Pvt. Ltd., Coimbatore | June 2025 – July 2025*
-* Conducted system vulnerability assessments and network mapping utilizing **Nmap**.
-* Performed deep-packet traffic analysis using **Wireshark** to identify protocol misconfigurations and potential data leakages.
-* Built and audited local testing environments using **XAMPP**, gaining practical experience in web server hardening and secure tunneling with **Ngrok**.
-
----
-
-### 🏆 Credentials & Competitions
-
-* **KubSTU CTF 2026 (International):** Ranked **287 / 1280** teams globally in cryptography, reverse engineering, and web security challenges.
-* **Red Team Leaders:** Completed training curriculum for **CISSP** (Certified Information Systems Security Professional).
-* **NPTEL Certification:** Privacy and Security in Online Social Media — Awarded **Grade 'A' (Elite + Silver)**.
-* **Active CTF Competitor:** Frequent participant in global cybersecurity operations, including THCON and the Maltego Community OSINT CTF.
-
----
-
 ### 🤝 Establish Secure Connection
 
 * 💼 **LinkedIn:** [/in/nithin-k-994979291](https://linkedin.com/in/nithin-k-994979291)
