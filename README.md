@@ -22,7 +22,7 @@ $ systemctl status nithin-k.service
 
 ```json
 {
-  "systems_scripting": ["Rust", "Python", "Java", "Bash", "JavaScript"],
+  "systems_scripting": ["Java", "Python", "Bash",  "Rust", "JavaScript"],
   "frontend_ui": ["React.js", "Next.js", "Tailwind CSS"],
   "security_tooling": ["Wireshark", "Nmap", "Burp Suite", "Ethical Hacking Methodologies"],
   "networking_protocols": ["TCP/IP", "DNS", "HTTP", "FTP", "Telnet", "SMTP"],
